@@ -1,0 +1,1 @@
+winsound.PlaySound("siren.wav", winsound.SND_LOOP + winsound.SND_ASYNC)
